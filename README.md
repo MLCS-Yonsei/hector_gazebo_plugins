@@ -17,10 +17,3 @@ git clone https://github.com/MLCS-Yonsei/hector_gazebo.git
 cd ..
 catkin_make
 ```
-
-### Running an environment
-
-```bash
-cd Factory_RL_Gazebo/runfile
-python run_*.py
-```
