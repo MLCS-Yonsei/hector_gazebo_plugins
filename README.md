@@ -3,7 +3,7 @@ modified version of hector_gazebo_plugins
 
 This work uses **hector_gazebo**.
 Visit [tu-darmstadt-ros-pkg/hector_gazebo
-](https://github.com/tu-darmstadt-ros-pkg/hector_gazebo.git
+](https://github.com/tu-darmstadt-ros-pkg/hector_gazebo_plugins.git
 ) for more information.
 
 ## Modified
